@@ -1,0 +1,232 @@
+modelname,provider,duration_sec,input_tokens,output_tokens,answer
+gemma3:4b,ollama,30.468,18,645,"Okay, here’s a transcription of a pizza order, aiming for a realistic conversation:
+
+**Setting:** A phone call to ""Tony's Pizza""
+
+**Characters:**
+
+* **Sarah (S):** The Customer
+* **Tony (T):** The Pizza Order Taker
+
+---
+
+**(Sound of a phone ringing, then being answered)**
+
+**T:** Tony's Pizza, this is Tony speaking, how can I help you?
+
+**S:** Hi Tony, I’d like to place an order for pickup.
+
+**T:** Great! Can I get your name and address, please?
+
+**S:** It’s Sarah Miller, and my address is 14 Maple Street, Apartment 2B.
+
+**T:** Okay, Sarah Miller, 14 Maple Street, Apartment 2B.  And what are you thinking of ordering tonight?
+
+**S:** I’m craving a pizza. I’d like a large pepperoni pizza, please.
+
+**T:** Large pepperoni. Got it. Anything else on that?
+
+**S:** Hmm, could I also add some mushrooms?
+
+**T:** Sure thing.  Large pepperoni with mushrooms.  Would you like any sauce on that? We have red or white.
+
+**S:** Red, please. And could you make it with regular crust?
+
+**T:** Regular crust, red sauce, pepperoni and mushrooms.  Okay.  Anything else for you? Drinks or sides?
+
+**S:** Yes, let's add a two-liter of Coke.
+
+**T:** Two-liter of Coke.  Alright.  That’s one large pepperoni pizza with mushrooms and red sauce on regular crust, and a two-liter of Coke.  Can I get a phone number for the order?
+
+**S:** It's 555-123-4567.
+
+**T:** 555-123-4567.  Okay, Sarah, that’s one large pepperoni with mushrooms on regular crust, red sauce, and a two-liter of Coke. The total will be $23.50.  It should be ready for pickup in about 20-25 minutes.
+
+**S:** Perfect! Thank you so much, Tony.
+
+**T:** You’re welcome, Sarah!  See you in 20-25 minutes.
+
+**S:** Bye!
+
+**(Sound of phone hanging up)**
+
+---
+
+**Notes:**
+
+*   I’ve included common pizza order elements (crust type, sauce, toppings).
+*   I’ve added some conversational filler (""Got it,"" “Sure thing,” “Hmm”) to make it sound more natural.
+*   I’ve included a total price estimate.
+*   I added estimated time for pickup.
+
+Would you like me to:
+
+*   Generate a different type of pizza order (e.g., with different toppings)?
+*   Simulate a longer conversation?
+*   Focus on a specific aspect of the order (e.g., payment)?"
+llama3.1:8b,ollama,11.517,18,359,"Here is a transcription of a pizza order:
+
+**Phone rings**
+
+**Pizza Place**: Thank you for calling Pizza Palace. How can I help you?
+
+**Customer**: Hi, I'd like to order a pizza, please.
+
+**Pizza Place**: Okay, what type of crust would you like? We have hand-tossed, thin crust, or gluten-free.
+
+**Customer**: Um, I'll just go with hand-tossed.
+
+**Pizza Place**: Great choice. What size would you like? We have small, medium, large, or extra-large.
+
+**Customer**: I'll take a medium.
+
+**Pizza Place**: Okay. And what toppings would you like on your pizza?
+
+**Customer**: Let me see... I'll take pepperoni, mushrooms, olives, and sausage.
+
+**Pizza Place**: Alright. Would you like any specialty toppings, like bacon or pineapple?
+
+**Customer**: No, just those four.
+
+**Pizza Place**: Okay. Would you like any drinks or sides with your order?
+
+**Customer**: No, just the pizza.
+
+**Pizza Place**: Alright. Your total comes out to be $19.99. Would you like to pay with a credit card or pick it up?
+
+**Customer**: I'll pay with a credit card.
+
+**Pizza Place**: Great. Can you please give me your card number and expiration date?
+
+**Customer**: (card number and expiration date provided)
+
+**Pizza Place**: Okay, thank you. Your order will be ready for pickup in about 20 minutes.
+
+**Customer**: Great, thank you.
+
+**Pizza Place**: You're welcome! We'll see you soon.
+
+**Hang up**
+
+Note: I generated this transcription based on a typical pizza order conversation, but the specific details may vary depending on the pizza place and customer preferences."
+mistral:7b,ollama,14.782,13,646," Customer: Hi, I'd like to place an order please.
+
+Assistant: Of course! May I have your name and phone number for the order?
+
+Customer: John Doe, 555-1234.
+
+Assistant: Thank you, John. Now, let's get to your order. Are you ordering for delivery or pickup?
+
+Customer: Delivery, please.
+
+Assistant: Great! Which address should I direct the delivery to?
+
+Customer: 123 Main Street, Anytown, USA
+
+Assistant: Alright, I've noted the delivery address. Now, let's move on to your pizza choices. Would you like a large or extra-large pizza?
+
+Customer: Large, please.
+
+Assistant: Wonderful! What type of crust would you prefer? We offer thin, hand-tossed, and deep-dish.
+
+Customer: Hand-tossed, please.
+
+Assistant: Fantastic! Now, could you please choose the type of sauce for your pizza? We offer traditional tomato, garlic-herb, or BBQ.
+
+Customer: Garlic-herb, please.
+
+Assistant: Perfect! Next, could you please select the type of cheese for your pizza? We offer mozzarella, cheddar, or a blend.
+
+Customer: A blend, please.
+
+Assistant: Great! Now, we have a variety of toppings available. Here are some of our most popular options: pepperoni, sausage, mushrooms, bell peppers, onions, black olives, pineapple, bacon, chicken, and ham. You may select as many toppings as you'd like.
+
+Customer: I'd like pepperoni, sausage, mushrooms, onions, black olives, and pineapple.
+
+Assistant: Fantastic! You've chosen a delightful combination. Is there anything else you'd like to add, such as an extra cheese or additional toppings?
+
+Customer: No, I think that's it.
+
+Assistant: Excellent! Let me just recap your order for you. You've ordered a large, hand-tossed, garlic-herb sauce pizza with a blend of cheese, topped with pepperoni, sausage, mushrooms, onions, black olives, and pineapple. Is that correct?
+
+Customer: Yes, that's correct.
+
+Assistant: Wonderful! Your total will be $21.95. I'll have your pizza ready in about 30 minutes for delivery to 123 Main Street, Anytown, USA. Is there anything else I can assist you with, John?
+
+Customer: No, that's all. Thank you!
+
+Assistant: You're welcome, John! I'll see you soon with your delicious pizza! Have a great day!"
+qwen3:8b,ollama,21.737,18,883,"**Pizza Order Transcription**  
+
+**Customer:**  
+Hello, Pizza Palace. I’d like to order a large pepperoni and mushroom pizza with extra cheese.  
+
+**Delivery Person:**  
+Got it. What’s your address?  
+
+**Customer:**  
+123 Maple Street, Suite 4B.  
+
+**Delivery Person:**  
+And how do you want it delivered? Cash or credit?  
+
+**Customer:**  
+Credit card.  
+
+**Delivery Person:**  
+Okay, let me confirm: large pepperoni and mushroom pizza with extra cheese, delivered to 123 Maple Street, Suite 4B.  
+
+**Customer:**  
+Yes, that’s correct. Also, make sure the crust is extra crispy. No anchovies, please.  
+
+**Delivery Person:**  
+Understood. Any other special requests?  
+
+**Customer:**  
+Just a note for the driver: “Please keep the pizza warm until delivery.”  
+
+**Delivery Person:**  
+Noted. Your order will be ready in 25 minutes and should arrive by 6:30 PM.  
+
+**Customer:**  
+Perfect, thank you!  
+
+**Delivery Person:**  
+You’re welcome! Have a great day!  
+
+**Customer:**  
+You too!  
+
+*(Call ends.)*  
+
+---  
+**Note:** This transcription includes order details, delivery instructions, and customer preferences, mimicking a real-world pizza order conversation."
+claude-haiku-4-5-20251001,anthropic,3.65,16,306,"# Pizza Order Transcription
+
+**Customer:** Hi, I'd like to place a delivery order, please.
+
+**Staff:** Great! Welcome to Mario's Pizzeria. What can I get started for you today?
+
+**Customer:** Um, I'll have one large pepperoni pizza with extra cheese, and can you make the crust pan pizza?
+
+**Staff:** Perfect. One large pan crust pepperoni with extra cheese. Anything else?
+
+**Customer:** Yeah, can I also get a medium sausage and mushroom pizza, and... a two-liter of Coke?
+
+**Staff:** Absolutely. So that's one large pepperoni pan crust with extra cheese, one medium sausage and mushroom, and a two-liter Coke. Is that correct?
+
+**Customer:** Yes, that's right.
+
+**Staff:** Great! That'll be ready in about thirty-five minutes. What's the address for delivery?
+
+**Customer:** It's 247 Oak Street, Apartment 3B.
+
+**Staff:** Got it. And what's the best phone number to reach you?
+
+**Customer:** It's 555-0147.
+
+**Staff:** Perfect! Your total comes to $34.99 with delivery. We'll see you in about thirty-five minutes!
+
+**Customer:** Thanks!
+
+**Staff:** Thank you! Have a great day!"

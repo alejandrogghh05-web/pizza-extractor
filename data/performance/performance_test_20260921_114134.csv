@@ -1,0 +1,422 @@
+modelname,provider,duration_sec,input_tokens,output_tokens,answer
+gemma3:4b,ollama,13.654,18,652,"Okay, here's a transcription of a pizza order, aiming for a realistic conversation:
+
+**Setting:** Pizza Place - Phone Order
+
+**Characters:**
+
+* **Sarah (S):** Customer
+* **Marco (M):** Pizza Place Employee
+
+---
+
+**(Ring, Ring)**
+
+**M:** Thank you for calling Pizza Palace, this is Marco, how can I help you?
+
+**S:** Hi Marco, yeah, I’d like to place an order for delivery.
+
+**M:** Absolutely! Can I get your address and phone number first?
+
+**S:** Sure, it’s 123 Maple Street, Apartment 4B, and my number is 555-1212.
+
+**M:** Okay, 123 Maple Street, Apartment 4B. Got it.  What kind of pizza are you in the mood for?
+
+**S:** Hmm, let’s go with a large. I’d like a pepperoni pizza, please.
+
+**M:** Okay, one large pepperoni. Anything else on that?
+
+**S:** Yeah, could I also get some mushrooms on it?
+
+**M:** Mushrooms it is. Anything else on any other pizzas?
+
+**S:** Okay, let’s do another large pizza, this time with half pepperoni and half veggie. The veggie side could have mushrooms, green peppers, and onions.
+
+**M:**  Half pepperoni, half veggie with mushrooms, green peppers, and onions. Perfect.  Any drinks or sides you'd like to add?
+
+**S:** Yeah, can I get a two-liter of Coke?
+
+**M:**  Two-liter of Coke.  Okay, let me confirm your order.  That’s one large pepperoni pizza, one large half pepperoni, half veggie pizza with mushrooms, green peppers, and onions, and a two-liter of Coke. Is that correct?
+
+**S:** Yes, that’s perfect! 
+
+**M:** Okay, great!  That'll be $28.75 including tax.  Can I take a card over to you, or will you be paying cash?
+
+**S:** I’ll pay with card.
+
+**M:**  Wonderful.  Just one moment while I process your order… Okay, it’s all confirmed! Your order should arrive in approximately 30-45 minutes. You’ll get a text update when it’s on its way.
+
+**S:** Fantastic, thank you so much, Marco!
+
+**M:** You’re very welcome! Enjoy your pizza!
+
+**S:** I will! Bye!
+
+**M:** Bye! 
+
+
+---
+
+**Notes on Transcription:**
+
+*   I included typical phrases used in a phone order.
+*   I noted the characters speaking to show the flow of the conversation.
+*   I included details like confirmation and estimated delivery time, which are common in this type of interaction.
+
+Would you like me to:
+
+*   Generate a different kind of order (e.g., takeout, specific pizza toppings)?
+*   Make the conversation longer or shorter?"
+gemma4:e4b,ollama,46.111,24,1386,"Here are a few options, depending on the tone you want (casual, detailed, or quick).
+
+***
+
+### Option 1: The Standard, Detailed Order (Most Realistic)
+
+**SPEAKER:** Employee (Pizza Shop)
+**SPEAKER:** Customer
+
+**(Sound of ringing phone, followed by a friendly, professional voice)**
+
+**Employee:** ""Thank you for calling Tony's Pizza Palace, my name is Jessica. How can I help you today?""
+
+**Customer:** ""Hi, I'd like to order a pizza, please. And maybe some wings.""
+
+**Employee:** ""No problem at all. Could I get a name and a delivery address, please?""
+
+**Customer:** ""It's for Mr. Harrison, at 14 Oak Street, Apartment 3B.""
+
+**Employee:** ""Got it. 14 Oak Street, Apartment 3B. And what size would you like for your pizza?""
+
+**Customer:** ""Hmm, let's do one large. And we'll make it a Supreme. But listen, we actually need two kinds of crust—one half is regular, and the other half needs to be thin crust.""
+
+**Employee:** (Typing sound) ""Okay, one large pizza, customized crust: half regular, half thin. And the toppings for the Supreme?""
+
+**Customer:** ""Pepperoni, mushrooms, green peppers, and... actually, can you make sure there are absolutely no olives on this one?""
+
+**Employee:** ""No olives, noted. And the wings? What kind of wings?""
+
+**Customer:** ""Twelve pieces. And we'll want them tossed in garlic butter.""
+
+**Employee:** ""Got it. One large Supreme, customized crust, no olives, plus twelve garlic butter wings. Will that be everything?""
+
+**Customer:** ""Yes. And oh, could we grab a two-liter bottle of Coke too?""
+
+**Employee:** ""Perfect. Alright, let me confirm... one large customized Supreme, twelve garlic butter wings, and one two-liter Coke, delivered to 14 Oak Street. Does that sound right?""
+
+**Customer:** ""Yep, that's everything.""
+
+***
+
+### Option 2: The Quick, Casual Order (The Group Hangout)
+
+**SPEAKER:** Employee
+**SPEAKER:** Customer
+
+**Employee:** ""Hi, you've reached Tony's. How can I help?""
+
+**Customer:** ""Hey, we need a pizza, like, for four people. And drinks.""
+
+**Employee:** ""Sure thing. What size, and what kind of toppings are you looking for?""
+
+**Customer:** ""Just a bunch of pepperoni. Like, a couple of them. Maybe one large and one extra large.""
+
+**Employee:** ""Okay, two pepperoni pizzas. What about the sides?""
+
+**Customer:** ""Oh, yeah, and some breadsticks. Just the regular ones.""
+
+**Employee:** ""Got it. Two pepperoni pizzas, one large and one extra large, plus one order of breadsticks. What's the address?""
+
+**Customer:** ""Maple Street, 88.""
+
+**Employee:** ""Maple Street, 88. You'll be charged for delivery. Sound good?""
+
+**Customer:** ""Yeah, sounds good.""
+
+***
+
+### Option 3: The Experimental/Weird Order (High Detail)
+
+**SPEAKER:** Employee
+**SPEAKER:** Customer
+
+**Employee:** ""Welcome to Pizza Delights. May I take your order?""
+
+**Customer:** ""Uh, yeah. We need a pizza. Like, a weird one.""
+
+**Employee:** ""I can certainly help with that. What are we working with?""
+
+**Customer:** ""Okay. It's supposed to be a 'Hawaiian Gone Wrong.' So, regular dough, but instead of ham and pineapple, we want ground beef, smoked gouda cheese, and... pineapple chunks, but they have to be caramelized first. And we want a kick of jalapeños, but sliced thinly, okay?""
+
+**Employee:** (Slight pause) ""Ground beef, smoked gouda, caramelized pineapple, and thin jalapeños... all on one large pizza? Any instructions regarding dipping sauces?""
+
+**Customer:** ""No, no sauce. But we need extra garlic powder dusted on the crust edges. And we're adding a side of pickled jalapeño slices too.""
+
+**Employee:** ""Alright. One large 'Hawaiian Gone Wrong'—ground beef, smoked gouda, caramelized pineapple, thin jalapeños, extra garlic dust on the crust—plus a side of pickled jalapeños. Address?""
+
+**Customer:** ""The usual spot. Apartment 7."""
+llama3.1:8b,ollama,12.858,18,436,"Here is a transcription of a pizza order:
+
+[Ringing sound]
+
+Customer: Hello?
+
+Pizza Place: Hi, welcome to Pizza Palace! How can we make your day better?
+
+Customer: Yeah, I'd like to order a pizza, please.
+
+Pizza Place: Sounds good! What kind of pizza would you like?
+
+Customer: Um, let me see... I'll take the meat lovers. With pepperoni, sausage, and bacon.
+
+Pizza Place: Got it! And would you like any additional toppings?
+
+Customer: Yeah, can I get mushrooms and onions as well?
+
+Pizza Place: Okay, so that's pepperoni, sausage, bacon, mushrooms, and onions on the meat lovers.
+
+Customer: And can I make it a large?
+
+Pizza Place: Absolutely. And would you like any sides with that?
+
+Customer: No, just the pizza is fine. And can I get a 2-liter of soda to go with it?
+
+Pizza Place: Sounds good. We have Coke, Diet Coke, Sprite, or root beer.
+
+Customer: Um, I'll take a Coke, please.
+
+Pizza Place: Alright, so to confirm: you'd like a large meat lovers pizza with pepperoni, sausage, bacon, mushrooms, and onions, and a 2-liter of Coke. Is that right?
+
+Customer: Yeah, that's right.
+
+Pizza Place: Okay, I'm just going to go ahead and put that in for you. Your total comes out to be $23.99.
+
+Customer: Alright, I'll pay with card. What's the card machine number?
+
+Pizza Place: It's 1234.
+
+Customer: Okay, got it. Can I just confirm that the address is 123 Main St?
+
+Pizza Place: Yes, that's correct.
+
+Customer: Alright, thank you!
+
+Pizza Place: You're welcome! We'll have your order ready in about 20-25 minutes. Would you like to pick it up or have it delivered?
+
+Customer: I'll have it delivered, please.
+
+Pizza Place: Alright, we'll get that taken care of for you. Thank you for choosing Pizza Palace!
+
+Customer: Thank you!
+
+[Phone hangs up]"
+ministral-3:3b,ollama,13.739,561,804,"Voici une transcription typique d’un ordre de pizza au téléphone, dans un contexte professionnel ou entre amis :
+
+---
+
+**Pizza-Service :** Bonjour et bienvenue chez [Nom de la Pizzeria] ! Comment puis-je vous aider aujourd’hui ?
+*(Exemple donné en français)*
+
+**Client :** Bonjour, je voudrais commander deux pizzas.
+*(Un client demande donc deux pizzas.)*
+
+**Pizza-Service :** Très bien. Quelle taille préférez-vous ? [Option : 14"", 16"", 18""] ?
+*(Ou demande les goûts spécifiques si il y a plusieurs types de pizzas.)*
+
+**Client :** Une pizza margueritte et une pâtes al dente (margherita + tomates séchées).
+*(Un client précise ici sa commande.)*
+
+**Pizza-Service :** D'accord, margueritte pour un plat et une combinaison margherita/tomates séchées pour l’autre.
+Pour la garniture margueritte, préférez-vous des légumes, de la viande ou des champignons ?
+**Client :** Des légumes, s’il vous plaît. *(Réponse du client.)*
+
+**Pizza-Service :** Parfait. Une margherite classique ou une version extra sauce ?
+**Client :** Classique, sans sauce spéciale *(demande spécifique.)*
+
+**Pizza-Service :** Et quel est votre mode de paiement ? Carte, espèces ou PayPal ?
+*(Ou autre question selon le menu comme : sauce maison, temps de préparation, etc.)*
+
+---
+### **Exemple complet pour une commande détaillée** :
+*(Pour plus de réalisme, voici un dialogue complet, adapté à des questions courants.)*
+
+---
+**Pizza-Service :** Bonjour ! Que puis-je faire pour vous aujourd’hui ?
+**Client :** Oui, je veux commander une pizza. Quel est le menu ?
+**Pizza-Service :** Voici notre menu :
+1. *Margherita* : Mozzarella, tomates, basilic, huile d’olive
+2. *Diavola* : Salami, pepperoni, sauce tomate piquante
+3. *Cicco* : Champignons, oignons, sauce à l’ail
+4. *Végétarienne* : Aubergine, courgette, sauce olive
+*(Optionnel : ajouts comme champignons ou anchois sur la marguerita.)*
+
+**Client :** Je prends la *Margherita*, et deux pâtes al dente avec des légumes et des champignons *(suppléments)*.
+**Pizza-Service :** Confirmez : Margherita *sans sauce* + pâtes al dente avec légumes/champignons. Vous voulez une sauce spéciale ?
+**Client :** Non, c’est bon. Et pour la taille, quel est votre choix ? [14"", 16""]
+**Pizza-Service :** Vous choisissez 16"". Combien de pizzas et de parts ?
+**Client :** Deux pizzas (chaque pizza à 2 parts).
+**Pizza-Service :** Alors, deux pizzas 16"", Marguerita (sans sauce) + pâtes al dente, légumes/champignons. Votre mode de livraison ou restaurant à prendre ?
+*(Ou demande si l’addition est à inclure pour le service.)*
+
+---
+**Pro tip** :
+- Si vous souhaitez une transcription **court et professionnel**, mentionnez simplement : *""2 pizzas marguerites avec légumes et sauce classique, taille 16"", à livrer ou à emporter.""*
+- Incluez des *options personnalisées* (sauces, topping, végétarien) pour la clarté.
+
+Souhaitez-vous un format spécifique (ex. pour un menu écrit à l’avance) ?"
+mistral:7b,ollama,11.842,13,434," Customer: Hi, I'd like to place an order for a pizza.
+
+Assistant: Of course, I'd be happy to help with that. What type of pizza would you like?
+
+Customer: I'd like a large pepperoni pizza please.
+
+Assistant: Great choice! Would you like it with or without extra cheese?
+
+Customer: I'd like it with extra cheese, please.
+
+Assistant: Alright, and would you like any specific type of sauce?
+
+Customer: Yes, could you make it tomato and garlic sauce?
+
+Assistant: Absolutely! Any additional toppings you'd like?
+
+Customer: Yes, please add mushrooms, onions, and green peppers to my pizza.
+
+Assistant: Got it! Your large pepperoni pizza with tomato and garlic sauce, extra cheese, and topped with mushrooms, onions, and green peppers. Any requests for the crust?
+
+Customer: Yes, could you make it a thin crust?
+
+Assistant: A thin crust it is! Would you like your pizza delivered, or are you picking it up?
+
+Customer: I'd like it delivered, please.
+
+Assistant: Alright. Could you please provide me with your address?
+
+Customer: [Provides address]
+
+Assistant: Perfect! Is there a contact number where we can reach you in case of any issues?
+
+Customer: [Provides contact number]
+
+Assistant: Great, your order number is [order number]. Your large thin-crust pepperoni pizza with tomato and garlic sauce, extra cheese, mushrooms, onions, and green peppers will be delivered to [address] within the estimated time of [time]. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thanks for your help!
+
+Assistant: You're welcome! Have a wonderful day, and enjoy your pizza!"
+mistral-nemo:12b,ollama,46.854,11,520,"Sure, here's a simple transcription of a pizza order:
+
+**Order Taker:** Hello, you've reached XYZ Pizza. How can I assist you today?
+
+**Customer:** Hi, I'd like to order a pizza please.
+
+**Order Taker:** Certainly! To start, could you tell me what size pizza you'd like? We have small (8 slices), medium (10 slices), or large (14 slices).
+
+**Customer:** I'll have a medium, please.
+
+**Order Taker:** Great. And which type of crust would you prefer? We have regular, thin & crispy, or gluten-free.
+
+**Customer:** Regular crust is fine for me.
+
+**Order Taker:** Alright. Now, let's choose your toppings. We have pepperoni, sausage, onions, peppers, mushrooms, olives, artichokes, and jalapeños. You can choose up to three toppings at no extra charge.
+
+**Customer:** I'll have pepperoni, mushrooms, and peppers, please.
+
+**Order Taker:** Noted. And would you like any additional toppings? They're $1 each.
+
+**Customer:** No, that's all for now. But I would like some extra cheese.
+
+**Order Taker:** Sure thing. That'll be a $1 extra cheese charge. Would you like your pizza cooked with our original sauce or white sauce?
+
+**Customer:** Original sauce is good.
+
+**Order Taker:** Perfect. And would you like your pizza cut into 6 slices or 8 slices?
+
+**Customer:** Six slices, please.
+
+**Order Taker:** Got it. And to drink, we have Coke, Diet Coke, Sprite, or water. We also have a selection of beers.
+
+**Customer:** Just a Coke, please.
+
+**Order Taker:** Alright. That's a medium pizza with regular crust, original sauce, pepperoni, mushrooms, peppers, and extra cheese, cut into 6 slices, and a Coke to drink. Your total comes to $17.25.
+
+**Customer:** That's correct.
+
+**Order Taker:** Great! Will this be a pickup order or delivery?
+
+**Customer:** I'll come pick it up.
+
+**Order Taker:** Perfect. Your order will be ready in about 20 minutes. Just give us a call when you arrive and we'll have your pizza waiting for you.
+
+**Customer:** Thank you. I'll see you soon.
+
+**Order Taker:** You're welcome! Have a great day!"
+qwen3.5:0.8b,ollama,25.408,18,2932,"Subject: Pizza Order
+
+1.  **Order Details:**
+    *   **Pizza Type:** Margherita (Classic Tomato & Mozzarella)
+    *   **Service Area:** North District
+    *   **Payment Method:** Cash / Card (Available)
+    *   **Delivery Time:** Within 20 minutes
+    *   **Order Number:** #PO-98471
+
+2.  **Customer Interaction:**
+    *   **Plated Pizza:** Double-Side Sliced Margherita on a square plate.
+    *   **Serving Plate:** Single-Sided with a side dish (Sautéed Mushroom Soup).
+    *   **Salad:** Basil & Cherry Tomato Salad with balsamic glaze dressing.
+    *   **Drinks:** Water, Cola, and a selection of 20-pack soft drinks.
+
+3.  **Menu Items to Consider:**
+    *   **Mushroom Stew:** Sautéed mushrooms in the broth served cold.
+    *   **Garlic Butter Pasta:** Pasta cooked with garlic oil and parmesan shavings.
+    *   **Cherry Tomatoes:** Fresh cherry tomatoes grilled for a quick bite.
+
+4.  **Order Summary:**
+    *   One pizza (Margherita) with the standard sides.
+    *   Drink: Cola.
+    *   Salad: Basil Cherry Tomato.
+
+5.  **Finalizing Order:**
+    *   Please note that the table is reserved for a single service."
+qwen3:8b,ollama,13.154,18,428,"**Pizza Order Transcription:**  
+
+**Customer:** Hi, I’d like to order a large pepperoni pizza with extra cheese, mushrooms, and green peppers.  
+**Server:** Sure! Would you like that with a classic crust or a thin crust?  
+**Customer:** Thin crust, please. Oh, and could you add a side of garlic knots?  
+**Server:** Got it. So, one large pepperoni pizza with extra cheese, mushrooms, green peppers, thin crust, and a side of garlic knots.  
+**Customer:** Yes, that’s right. Make sure the pizza is delivered by 7 PM.  
+**Server:** Your order will be out in 30 minutes. Thanks for ordering!  
+
+**Note:** Adjustments can be made for pickup, dietary restrictions, or specific sauce preferences (e.g., marinara vs. barbecue)."
+claude-haiku-4-5-20251001,anthropic,3.912,16,290,"# Pizza Order Transcription
+
+**Customer:** Hi, I'd like to place a delivery order.
+
+**Operator:** Sure! What can I get for you today?
+
+**Customer:** Um, yeah, I'll take a large pepperoni pizza with extra cheese.
+
+**Operator:** One large pepperoni with extra cheese. Anything else?
+
+**Customer:** Yeah, add a medium order of garlic bread and... do you have wings?
+
+**Operator:** Yes, we do. What size?
+
+**Customer:** Ten pieces, uh, buffalo sauce please.
+
+**Operator:** Okay, so one large pepperoni with extra cheese, one medium garlic bread, and ten buffalo wings. Drinks?
+
+**Customer:** Yeah, throw in a two-liter Coke.
+
+**Operator:** Perfect. Can I get a name and address for the delivery?
+
+**Customer:** It's John Martinez, 524 Oak Street, apartment 3B.
+
+**Operator:** And a phone number?
+
+**Customer:** 555-0147.
+
+**Operator:** Alright, your total is $34.99. Delivery will be about 30 to 40 minutes. Is that okay?
+
+**Customer:** Yeah, that works. Thanks!
+
+**Operator:** Thank you for your order!"
